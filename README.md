@@ -1,4 +1,6 @@
 # 리액트 Context API
+리액트를 다루는 기술 개정판 책
+
 - Context API를 사용한 전역 상태 관리 흐름 이해하기
 - Context API 사용법 익히기
   - 새 Context 만들기
